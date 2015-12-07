@@ -1,0 +1,24 @@
+{
+"name": "hyperbolaa/wechat",
+"type": "library",
+"description": "php composer for symfony",
+"keywords": ["wechat","symfony2"],
+"homepage": "https://github.com/hyperbolaa/wechat",
+"license": "MIT",
+"authors": [
+{
+"name": "chong yu",
+"email": "chongyu@gmail.com",
+"homepage": "http://www.findxn.com/",
+"role": "Developer"
+}
+],
+"require": {
+    "php": ">=5.5.0"
+    },
+    "autoload": {
+    "psr-4": {
+        "master": "1.0.0"
+        }
+    }
+}
